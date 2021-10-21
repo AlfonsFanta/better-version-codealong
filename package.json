@@ -1,0 +1,25 @@
+{
+  "name": "better-version-codealong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfonsFanta/better-version-codealong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfonsFanta/better-version-codealong/issues"
+  },
+  "homepage": "https://github.com/AlfonsFanta/better-version-codealong#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "date-fns": "^2.25.0",
+    "got": "^11.8.2"
+  }
+}
